@@ -44,6 +44,7 @@ local authorizedUsers = {
     ["djekejsn"] = true,
     ["D99SHOP"] = true,
     ["cotryball8"] = true,
+    ["Lusquinha_067"] = true,
     ["ADMBROOKHAVEN6676"] = true,
     ["cuidado_025"] = true,
     ["PerfFectBx4483"] = true,
